@@ -1,0 +1,15 @@
+{
+	"name": "firstadfumarh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "mexicocentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ab68126-4ea0-4d35-9fc7-47bd5060324f",
+		"tenantId": "204ce0c4-5e90-4426-a954-14b6ee4bc954"
+	}
+}
